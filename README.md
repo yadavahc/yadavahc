@@ -2,7 +2,9 @@
 <h3 align="center">Information Science Student • Full Stack Developer • AI Systems Builder</h3>
 
 <p align="center">
-Building scalable web applications, AI-powered systems, and developer-focused platforms.
+Full Stack Developer and Information Science student at <b>The Oxford College of Engineering</b> (CGPA 8.9) with experience building scalable web platforms, AI-powered systems, and real-world client applications.   
+
+Strong foundation in <b>Data Structures, System Design fundamentals, and modern web architecture</b>, with hands-on experience building AI products, developer platforms, and automation-driven applications using modern full-stack technologies.
 </p>
 
 ---
@@ -50,6 +52,8 @@ Building scalable web applications, AI-powered systems, and developer-focused pl
 ![Clerk](https://img.shields.io/badge/Clerk-black?style=for-the-badge)
 ![Shadcn](https://img.shields.io/badge/Shadcn/UI-black?style=for-the-badge)
 
+---
+
 ## 🧠 Computer Science
 
 - Data Structures & Algorithms  
@@ -61,18 +65,21 @@ Building scalable web applications, AI-powered systems, and developer-focused pl
 
 ---
 
-
 ## 📊 Problem Solving
 
 - Solved **100+ Data Structures & Algorithms problems**
+- Top **30 among 1000+ geeks** in GeeksforGeeks (TOCE)
 - Active on **LeetCode** and **GeeksforGeeks**
 
 ---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Winner — Ideathon**, BMS College of Engineering (National Science Day)  
+- 🥉 **3rd Winner — CSI Web Hackathon 2024**  
 
 ## 🔗 Connect
 
 GitHub: https://github.com/yadavahc  
 LinkedIn: https://linkedin.com/in/yadava-hc-907067287  
 LeetCode: https://leetcode.com/u/uDbVJTA37J/
-
----
