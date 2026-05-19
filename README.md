@@ -72,11 +72,15 @@ Strong foundation in <b>Data Structures, System Design fundamentals, and modern 
 - Active on **LeetCode** and **GeeksforGeeks**
 
 ---
-
 ## 🏆 Achievements
 
+- 🥈 **Runner-Up — OxyHack 2026 Hackathon**
+- 🎯 **Finalist — HackBLR National Level Hackathon**
+- 🥈 **Runner-Up — DevKreeda Game Development Competition**
+- 🏆 **Winner — Google Pitch Night Edition**
+- 🎯 **Finalist — CypherQuest National Level Hackathon**
 - 🥈 **2nd Winner — Ideathon**, BMS College of Engineering (National Science Day)  
-- 🥉 **3rd Winner — CSI Web Hackathon 2024**  
+- 🥉 **3rd Winner — CSI Web Hackathon 2024**
 
 ## 🔗 Connect
 
