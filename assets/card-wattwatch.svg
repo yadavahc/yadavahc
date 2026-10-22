@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="WattWatch: AI-vision energy watchdog for smart campuses">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090C18"/><stop offset="1" stop-color="#121332"/></linearGradient>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#FACC15" stop-opacity="0"/><stop offset="0.5" stop-color="#FACC15"/><stop offset="1" stop-color="#FACC15" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#FACC15" stop-opacity="0.32"/><stop offset="1" stop-color="#FACC15" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect width="1000" height="290" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .shine{animation:sweep 5s ease-in-out infinite}
+    @keyframes sweep{from{transform:translateX(-260px)}to{transform:translateX(1060px)}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3s ease-in-out infinite}
+    @keyframes pulse{0%,100%{transform:scale(.9);opacity:.55}50%{transform:scale(1.08);opacity:1}}
+    .bolt{transform-box:fill-box;transform-origin:center;animation:zap 2.4s ease-in-out infinite}
+    @keyframes zap{0%,100%{opacity:.75;transform:scale(.95)}8%{opacity:1;transform:scale(1.08)}12%{opacity:.6}16%{opacity:1}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="290" fill="url(#bg)"/>
+    <circle class="pulse" cx="900" cy="140" r="140" fill="url(#glow)"/>
+    <rect class="shine" x="0" y="0" width="240" height="3" fill="url(#shine)"/>
+    <rect x="40" y="32" width="378" height="28" rx="14" fill="#E2E8F0" fill-opacity="0.12" stroke="#E2E8F0" stroke-opacity="0.6"/>
+    <text x="229" y="51" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" fill="#E2E8F0">2ND PLACE · OXYHACK 2026 · 500+ PARTICIPANTS</text>
+    <text x="40" y="118" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" fill="#F8FAFC">WattWatch</text>
+    <text x="40" y="152" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#FACC15">AI-vision energy watchdog for smart campuses</text>
+    <text x="40" y="186" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#94A3B8">Detects classroom occupancy with in-browser computer vision, cross-checks timetables,</text>
+    <text x="40" y="210" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#94A3B8">and flags wasted energy through live dashboards, AI insights and email alerts.</text>
+    <rect x="40" y="236" width="77" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="78.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Next.js</text>
+<rect x="126" y="236" width="100" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="176" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">TypeScript</text>
+<rect x="235" y="236" width="123" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="296.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">TensorFlow.js</text>
+<rect x="367" y="236" width="85" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="409.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">COCO-SSD</text>
+<rect x="461" y="236" width="70" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="496" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">OpenAI</text>
+<rect x="540" y="236" width="85" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="582.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Firebase</text>
+<rect x="634" y="236" width="85" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="676.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Recharts</text>
+    <path class="bolt" d="M912 60 L862 150 H898 L880 222 L944 122 H906 L928 60 Z" fill="#FACC15" stroke="#FEF08A" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="288.5" rx="19.5" fill="none" stroke="#FACC15" stroke-opacity="0.3" stroke-width="1.5"/>
+</svg>

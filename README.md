@@ -1,121 +1,213 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    YADAVA HC — PROFILE                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════  YADAVA HC  ═══════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YADAVA%20HC&fontAlign=50&fontAlignY=40&fontSize=55&desc=BUILD%20%E2%80%A2%20EXPLORE%20%E2%80%A2%20SHIP&descAlignY=60&animation=fadeIn&color=gradient" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%C3%97+Automation;Building+%7C+Experimenting+%7C+Learning;Turning+ideas+into+working+systems" />
-
-<br><br>
-
-<a href="https://github.com/yadavahc">
-<img src="https://img.shields.io/github/followers/yadavahc?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+<a href="https://portfolio-yadava-hc.vercel.app">
+  <img src="./assets/hero.svg" width="100%" alt="Yadava HC: AI Engineer, Voice-Agent Builder, Hackathon Winner"/>
 </a>
 
-<a href="https://github.com/yadavahc?tab=repositories">
-<img src="https://img.shields.io/github/stars/yadavahc?style=for-the-badge&logo=github&label=STARS"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=I+build+voice+AI+agents+that+speak+India's+languages;Hackathon+winner+%E2%80%A2+6+podiums+%E2%80%A2+3+national+finals;LLM+agents+%E2%80%A2+RAG+%E2%80%A2+Full-stack+%E2%80%A2+Machine+Learning;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
+
+<br/>
+
+<a href="https://portfolio-yadava-hc.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/yadava-hc-907067287"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/uDbVJTA37J/"><img src="https://img.shields.io/badge/LeetCode-0B0F19?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/profile/yadavahc"><img src="https://img.shields.io/badge/GeeksforGeeks-0B0F19?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"/></a>
+<a href="mailto:yadavahc333@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=yadavahc&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `> cat about.yml`
+
+```yaml
+name:        Yadava HC
+role:        AI Engineer · Voice-Agent Builder · Hackathon Competitor
+based_in:    Bengaluru, India
+studying:    B.E. Information Science @ The Oxford College of Engineering   # CGPA 8.9
+builds:      [ Multilingual Voice Agents, LLM + RAG Apps, Full-Stack Products ]
+track_record: "1 national AI award · 6 podium finishes · 3 national finals"
+mission:     Make AI useful for the next billion users, in their own language
+```
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+  <img src="./assets/scoreboard.svg" width="100%" alt="Achievement scoreboard"/>
+</div>
 
 <div align="center">
 
-## ⚡ CURRENTLY EXPLORING
-
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,firebase,docker,github,openai&perline=7"/>
-
-<br><br>
-
-`AI AGENTS`　 `RAG`　 `AUTOMATION`　 `MULTIMODAL AI`
+| | Competition | Result |
+|:-:|:--|:--|
+| 🥇 | **India's First AI Agent Builders Award 2026** | **Winner** · Most Impactful Use Case (with *Arya*) |
+| ✨ | **Google Gemini** | **Top Prompt Creator** |
+| 🥈 | **OxyHack 2026** | **2nd place** among 500+ participants (with *WattWatch*) |
+| 🥈 | **DevKreeda 2026** · Anokha | **2nd place** |
+| 🥈 | **InnovateX Ideathon 2024** · BMS College of Engineering | **2nd place** |
+| 🥉 | **YC Fall 2026 × Moss Hackathon** | **3rd place** among 300+ participants |
+| 🥉 | **CSI Web Hackathon** | **3rd place** |
+| 🎯 | **HackBLR 2026** · National Level | **Finalist** (with *Legal Saathi*) |
+| 🎯 | **Cypher Quest 2026** · DSATM | **Finalist** |
+| 🎯 | **Hackzion** · AMC | **Finalist** |
+| 🧩 | **GeeksforGeeks** · TOCE chapter | **Top 30** of 1000+ coders · 100+ DSA problems solved |
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🚀 Flagship Builds
+
+<p align="center">
+  <a href="https://github.com/yadavahc/Arya-Multilingual-Voice-AI-Healthcare-Assistant"><img src="./assets/card-arya.svg" width="100%" alt="Arya: multilingual voice AI clinical companion"/></a>
+  <br/>
+  <a href="https://github.com/yadavahc/Arya-Multilingual-Voice-AI-Healthcare-Assistant"><img src="https://img.shields.io/badge/Source_Code-A78BFA?style=flat-square&logo=github&logoColor=white" alt="Arya source"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yadavahc/wattwatch"><img src="./assets/card-wattwatch.svg" width="100%" alt="WattWatch: AI-vision energy watchdog for smart campuses"/></a>
+  <br/>
+  <a href="https://wattwatch-lemon.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FACC15?style=flat-square&logo=vercel&logoColor=black" alt="WattWatch live demo"/></a>
+  <a href="https://github.com/yadavahc/wattwatch"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=flat-square&logo=github&logoColor=white" alt="WattWatch source"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yadavahc/Hack-Blr"><img src="./assets/card-legalsaathi.svg" width="100%" alt="Legal Saathi: AI legal assistant in your language"/></a>
+  <br/>
+  <a href="https://hack-blr-seven.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=flat-square&logo=vercel&logoColor=black" alt="Legal Saathi live demo"/></a>
+  <a href="https://github.com/yadavahc/Hack-Blr"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=flat-square&logo=github&logoColor=white" alt="Legal Saathi source"/></a>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ⚡ What I Bring to the Table
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Voice-First AI
+Real-time multilingual voice agents with **LiveKit, Twilio, Vapi & Sarvam AI**, built for India's languages and not just English.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LLM Systems & RAG
+Agentic workflows with **LangGraph**, retrieval over **Qdrant**, and answers grounded in real documents (OCR → embeddings → reasoning).
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### ⏱️ Zero-to-Demo Speed
+Takes ideas from a blank repo to a live, judged product inside a hackathon window. That's how **6 podiums and 3 national finals** happened.
+
+</td>
+<td valign="top">
+
+### 🧩 Full-Stack Ownership
+**Next.js / React** front-ends, **Node / FastAPI** back-ends, **Firebase & Supabase** data, shipped on **Vercel**, end to end.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 📊 ML Foundations
+Regression to CNNs, NLP pipelines (**TF-IDF, Word2Vec, NLTK**), and **TensorFlow.js** computer vision running in the browser.
+
+</td>
+<td valign="top">
+
+### 🧮 CS Fundamentals
+DSA (**Top 30 / 1000+** on campus GFG), OOP, DBMS, Operating Systems, Computer Networks and system design basics.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🛠️ Arsenal
 
 <div align="center">
 
-## 🧪 THE LAB
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts&theme=dark" alt="Languages"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=600&color=8BE9FD&center=true&vCenter=true&width=650&lines=Experimenting+with+AI;Building+small+things;Testing+new+ideas;Learning+by+shipping"/>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,figma&theme=dark" alt="Frontend"/>
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase,supabase,mongodb,mysql&theme=dark" alt="Backend and data"/>
+
+**ML & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,docker,aws,vercel,netlify,git,github&theme=dark" alt="ML and cloud"/>
+
+**AI & Agent Stack**<br/>
+<img src="https://img.shields.io/badge/OpenAI-0B0F19?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Gemini-0B0F19?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
+<img src="https://img.shields.io/badge/LangGraph-0B0F19?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LiveKit-0B0F19?style=for-the-badge&logoColor=white" alt="LiveKit"/>
+<img src="https://img.shields.io/badge/Twilio-0B0F19?style=for-the-badge&logo=twilio&logoColor=F22F46" alt="Twilio"/>
+<img src="https://img.shields.io/badge/Sarvam_AI-0B0F19?style=for-the-badge" alt="Sarvam AI"/>
+<img src="https://img.shields.io/badge/Vapi-0B0F19?style=for-the-badge" alt="Vapi"/>
+<img src="https://img.shields.io/badge/Qdrant-0B0F19?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/Lyzr-0B0F19?style=for-the-badge" alt="Lyzr"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📜 Certifications
 
 <div align="center">
 
-## 📊 GITHUB PULSE
-
-<img src="https://github-readme-stats.vercel.app/api?username=yadavahc&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavahc&layout=compact&hide_border=true&langs_count=7&theme=transparent" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=yadavahc&hide_border=true&theme=transparent" />
+<img src="https://img.shields.io/badge/OCI_AI_Foundations_Associate-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI Foundations Associate"/>
+<img src="https://img.shields.io/badge/AI_Agent_Architect-IBM-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI Agent Architect"/>
+<img src="https://img.shields.io/badge/Getting_Started_with_AI-IBM-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Getting Started with AI"/>
+<img src="https://img.shields.io/badge/SQL_%26_CSS-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL and CSS"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📈 GitHub Pulse
 
 <div align="center">
 
-## 🌐 CONTRIBUTIONS
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yadavahc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0B0F19&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavahc&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F19&title_color=A78BFA&text_color=CBD5E1" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavahc&hide_border=true&area=true&theme=react-dark" width="96%"/>
+<img src="https://streak-stats.demolab.com?user=yadavahc&hide_border=true&background=0B0F19&ring=8B5CF6&fire=F472B6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B&stroke=1E293B" alt="GitHub streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yadavahc&bg_color=0B0F19&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=8B5CF6&hide_border=true&radius=12" alt="Contribution activity graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yadavahc/yadavahc/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yadavahc/yadavahc/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yadavahc/yadavahc/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-## 🛠️ STACK
+**Beyond code** · School President (MMVS) · E-Cell TOCE · Youth for Seva volunteer
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,firebase,supabase,mongodb,mysql,docker,git,github,figma,vercel&perline=8"/>
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Got+a+hard+problem%3F+Let's+build+the+demo.;Open+to+collaborations+%26+hackathon+teams." alt="Let's build"/>
 
----
-
-<div align="center">
-
-## 🐍 CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/yadavahc/yadavahc/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔗
-
-<a href="https://github.com/yadavahc">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:8B5CF6,100:F472B6" width="100%" alt=""/>
 
 </div>

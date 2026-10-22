@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Legal Saathi: Your legal friend, in your language">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090C18"/><stop offset="1" stop-color="#121332"/></linearGradient>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.32"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect width="1000" height="290" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .shine{animation:sweep 5s ease-in-out infinite}
+    @keyframes sweep{from{transform:translateX(-260px)}to{transform:translateX(1060px)}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3s ease-in-out infinite}
+    @keyframes pulse{0%,100%{transform:scale(.9);opacity:.55}50%{transform:scale(1.08);opacity:1}}
+    .beam{transform-origin:900px 92px;animation:tilt 4s ease-in-out infinite}
+    @keyframes tilt{0%,100%{transform:rotate(-7deg)}50%{transform:rotate(7deg)}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="290" fill="url(#bg)"/>
+    <circle class="pulse" cx="900" cy="140" r="140" fill="url(#glow)"/>
+    <rect class="shine" x="0" y="0" width="240" height="3" fill="url(#shine)"/>
+    <rect x="40" y="32" width="283" height="28" rx="14" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.6"/>
+    <text x="181.5" y="51" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" fill="#22D3EE">NATIONAL FINALIST · HACKBLR 2026</text>
+    <text x="40" y="118" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" fill="#F8FAFC">Legal Saathi</text>
+    <text x="40" y="152" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#22D3EE">Your legal friend, in your language</text>
+    <text x="40" y="186" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#94A3B8">Upload any legal document and get a plain-language risk analysis, then ask follow-ups</text>
+    <text x="40" y="210" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#94A3B8">by voice in Kannada, Hindi, Tamil, Telugu or English. Built for rural India.</text>
+    <rect x="40" y="236" width="77" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="78.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Next.js</text>
+<rect x="126" y="236" width="123" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="187.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">OpenAI GPT-4o</text>
+<rect x="258" y="236" width="70" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="293" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Qdrant</text>
+<rect x="337" y="236" width="115" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="394.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Tesseract.js</text>
+<rect x="461" y="236" width="92" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="507" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Sarvam AI</text>
+<rect x="562" y="236" width="54" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="589" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Vapi</text>
+<rect x="625" y="236" width="85" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="667.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Firebase</text>
+    <g stroke="#22D3EE" stroke-width="4" stroke-linecap="round" fill="none">
+      <line x1="900" y1="80" x2="900" y2="212"/><line x1="868" y1="214" x2="932" y2="214"/>
+      <circle cx="900" cy="78" r="6" fill="#22D3EE"/>
+      <g class="beam">
+        <line x1="840" y1="92" x2="960" y2="92"/>
+        <path d="M840 92 L822 140 M840 92 L858 140 M818 140 Q840 162 862 140 Z" fill="#22D3EE" fill-opacity="0.15"/>
+        <path d="M960 92 L942 140 M960 92 L978 140 M938 140 Q960 162 982 140 Z" fill="#22D3EE" fill-opacity="0.15"/>
+      </g>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="288.5" rx="19.5" fill="none" stroke="#22D3EE" stroke-opacity="0.3" stroke-width="1.5"/>
+</svg>
