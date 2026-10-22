@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://portfolio-yadava-hc.vercel.app">
-  <img src="./assets/hero.svg" width="100%" alt="Yadava HC: Full Stack Developer, AI Builder, 3× Hackathon Winner"/>
+  <img src="./assets/hero-v2.svg" width="100%" alt="Yadava HC: Full Stack Developer, AI Builder, 3× Hackathon Winner"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+3%C3%97+Hackathon+Winner;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;6+podiums+%E2%80%A2+3+national+finals;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
