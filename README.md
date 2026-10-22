@@ -3,10 +3,10 @@
 <div align="center">
 
 <a href="https://portfolio-yadava-hc.vercel.app">
-  <img src="./assets/hero.svg" width="100%" alt="Yadava HC: MERN Developer, AI Builder, 3× Hackathon Winner"/>
+  <img src="./assets/hero.svg" width="100%" alt="Yadava HC: Full Stack Developer, AI Builder, 3× Hackathon Winner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=MERN+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+3%C3%97+Hackathon+Winner;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;6+podiums+%E2%80%A2+3+national+finals;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+3%C3%97+Hackathon+Winner;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;6+podiums+%E2%80%A2+3+national+finals;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
 
 <br/>
 
@@ -26,10 +26,10 @@
 
 ```yaml
 name:        Yadava HC
-role:        MERN Developer · AI Builder · 3× Hackathon Winner
+role:        Full Stack Developer · AI Builder · 3× Hackathon Winner
 based_in:    Bengaluru, India
 studying:    B.E. Information Science @ The Oxford College of Engineering   # CGPA 8.9
-builds:      [ MERN Full-Stack Apps, AI-Powered Products ]
+builds:      [ Full-Stack Web Apps, AI-Powered Products ]
 track_record: "1 national AI award · 6 podium finishes · 3 national finals"
 mission:     Make AI useful for the next billion users, in their own language
 ```
@@ -92,7 +92,7 @@ mission:     Make AI useful for the next billion users, in their own language
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 MERN Full-Stack
+### 🧩 Full-Stack Development
 **MongoDB, Express.js, React.js & Node.js** apps with **REST APIs**, plus **Firebase, Supabase & MySQL** when the product needs them.
 
 </td>
