@@ -1,89 +1,238 @@
-<h1 align="center">Hi 👋, I'm Yadava HC</h1>
-<h3 align="center">Information Science Student • Full Stack Developer • AI Systems Builder</h3>
+<div align="center">
 
-<p align="center">
-Full Stack Developer and Information Science student at <b>The Oxford College of Engineering</b> (CGPA 8.9) with experience building scalable web platforms, AI-powered systems, and real-world client applications.   
+# `> YADAVA HC`
 
-Strong foundation in <b>Data Structures, System Design fundamentals, and modern web architecture</b>, with hands-on experience building AI products, developer platforms, and automation-driven applications using modern full-stack technologies.
-</p>
+### `BUILD • EXPERIMENT • BREAK • REBUILD`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;AI+%26+Automation+Enthusiast;Building+things+that+should+probably+not+exist;Always+experimenting+with+new+tech" alt="Typing SVG" />
 
-## 🚀 Tech Stack
+<br/>
 
-### Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<a href="https://github.com/yadavahc">
+<img src="https://img.shields.io/github/followers/yadavahc?label=Followers&style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/yadavahc?tab=repositories">
+<img src="https://img.shields.io/github/stars/yadavahc?affiliations=OWNER&style=for-the-badge&logo=github" />
+</a>
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST-API-grey?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![Neon](https://img.shields.io/badge/Neon-PostgreSQL-black?style=for-the-badge)
-
-### Dev Tools & Cloud
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Oracle Cloud](https://img.shields.io/badge/OCI-red?style=for-the-badge)
-
-### Other Technologies
-![Convex](https://img.shields.io/badge/Convex-black?style=for-the-badge)
-![Inngest](https://img.shields.io/badge/Inngest-purple?style=for-the-badge)
-![Clerk](https://img.shields.io/badge/Clerk-black?style=for-the-badge)
-![Shadcn](https://img.shields.io/badge/Shadcn/UI-black?style=for-the-badge)
+</div>
 
 ---
 
-## 🧠 Computer Science
+## `~/whoami`
 
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Database Management Systems  
-- Operating Systems  
-- Computer Networks  
-- System Design (Basics)
+```bash
+$ whoami
+
+yadava@github:~$ cat /about
+
+> curious builder
+> software × AI × automation
+> obsessed with turning ideas into working prototypes
+> learning by building
+> breaking things intentionally
+> fixing them eventually
+```
+
+I like exploring the space where **software, AI, automation and developer tooling** overlap.
+
+I don't particularly enjoy building things just because they are possible.
+
+I prefer building things that make someone say:
+
+> **"Wait... you can actually do that?"**
 
 ---
 
-## 📊 Problem Solving
+## `⚡ CURRENTLY EXPLORING`
 
-- Solved **100+ Data Structures & Algorithms problems**
-- Top **30 among 1000+ geeks** in GeeksforGeeks (TOCE)
-- Active on **LeetCode** and **GeeksforGeeks**
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   AI AGENTS          ████████████████░░░   85%       │
+│   RAG SYSTEMS        ██████████████░░░░░   75%       │
+│   AI AUTOMATION      ███████████████░░░░   80%       │
+│   MULTIMODAL AI      ████████████░░░░░░   65%       │
+│   DEVELOPER TOOLS    ██████████░░░░░░░░   55%       │
+│   OPEN SOURCE        ████████░░░░░░░░░░   45%       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+> These aren't skill ratings — they're just a snapshot of what I'm currently spending time exploring.
 
 ---
-## 🏆 Achievements
 
-- 🥈 **Runner-Up — OxyHack 2026 Hackathon**
-- 🎯 **Finalist — HackBLR National Level Hackathon**
-- 🥈 **Runner-Up — DevKreeda Game Development Competition**
-- 🏆 **Winner — Google Pitch Night Edition**
-- 🎯 **Finalist — CypherQuest National Level Hackathon**
-- 🥈 **2nd Winner — Ideathon**, BMS College of Engineering (National Science Day)  
-- 🥉 **3rd Winner — CSI Web Hackathon 2024**
+## `🧪 THE LAB`
 
-## 🔗 Connect
+A place for experiments that don't necessarily deserve a polished product page.
 
-GitHub: https://github.com/yadavahc  
-LinkedIn: https://linkedin.com/in/yadava-hc-907067287  
-LeetCode: https://leetcode.com/u/uDbVJTA37J/
+**Things you'll find here:**
+
+- AI experiments
+- automation prototypes
+- API experiments
+- small developer utilities
+- UI/UX experiments
+- weird ideas that might become useful
+- things built just to understand how they work
+
+```text
+IDEA
+ │
+ ▼
+EXPERIMENT
+ │
+ ├── works ───────► BUILD
+ │                    │
+ │                    ▼
+ │                  SHIP
+ │
+ └── breaks ───────► LEARN
+                      │
+                      └──────► try again
+```
+
+---
+
+## `🧠 HOW I BUILD`
+
+```javascript
+const workflow = [
+  "Find an interesting problem",
+  "Question the obvious solution",
+  "Prototype quickly",
+  "Integrate something interesting",
+  "Break it",
+  "Figure out why",
+  "Make it useful",
+  "Ship it"
+];
+
+workflow.forEach(step => console.log(step));
+```
+
+I value **building and experimentation over endlessly planning the perfect architecture**.
+
+---
+
+## `🌐 THE TECH ECOSYSTEM`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,firebase,supabase,mongodb,mysql,docker,git,github,figma,vercel&perline=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`AI` • `APIs` • `RAG` • `AUTOMATION` • `WEB` • `CLOUD` • `DEVELOPER TOOLS`
+
+</div>
+
+---
+
+## `📊 GITHUB // SYSTEM STATUS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yadavahc&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavahc&layout=compact&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yadavahc&hide_border=true" />
+
+</div>
+
+---
+
+## `📈 CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavahc&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## `🎯 2026 // BUILD LOG`
+
+```text
+[01] Build more things that solve real problems
+[02] Go deeper into AI systems
+[03] Explore open-source
+[04] Ship experiments instead of keeping them local
+[05] Learn by building uncomfortable things
+[06] Make GitHub a better representation of what I can build
+```
+
+---
+
+## `🔭 WHAT'S NEXT?`
+
+```text
+          ┌──────────────────────┐
+          │      NEXT IDEA       │
+          └──────────┬───────────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │   RESEARCH   │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │  PROTOTYPE  │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │    BUILD    │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │    SHIP     │
+              └─────────────┘
+```
+
+---
+
+## `🤝 CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://github.com/yadavahc">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `if (idea.isInteresting()) build(idea);`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+</div>
