@@ -3,10 +3,10 @@
 <div align="center">
 
 <a href="https://portfolio-yadava-hc.vercel.app">
-  <img src="./assets/hero.svg" width="100%" alt="Yadava HC: AI Engineer, Voice-Agent Builder, Hackathon Winner"/>
+  <img src="./assets/hero.svg" width="100%" alt="Yadava HC: MERN Developer, AI Builder, 3× Hackathon Winner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=I+build+voice+AI+agents+that+speak+India's+languages;Hackathon+winner+%E2%80%A2+6+podiums+%E2%80%A2+3+national+finals;LLM+agents+%E2%80%A2+RAG+%E2%80%A2+Full-stack+%E2%80%A2+Machine+Learning;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=MERN+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+3%C3%97+Hackathon+Winner;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;6+podiums+%E2%80%A2+3+national+finals;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
 
 <br/>
 
@@ -26,10 +26,10 @@
 
 ```yaml
 name:        Yadava HC
-role:        AI Engineer · Voice-Agent Builder · Hackathon Competitor
+role:        MERN Developer · AI Builder · 3× Hackathon Winner
 based_in:    Bengaluru, India
 studying:    B.E. Information Science @ The Oxford College of Engineering   # CGPA 8.9
-builds:      [ Multilingual Voice Agents, LLM + RAG Apps, Full-Stack Products ]
+builds:      [ MERN Full-Stack Apps, AI-Powered Products ]
 track_record: "1 national AI award · 6 podium finishes · 3 national finals"
 mission:     Make AI useful for the next billion users, in their own language
 ```
@@ -92,14 +92,14 @@ mission:     Make AI useful for the next billion users, in their own language
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Voice-First AI
-Real-time multilingual voice agents with **LiveKit, Twilio, Vapi & Sarvam AI**, built for India's languages and not just English.
+### 🧩 MERN Full-Stack
+**MongoDB, Express.js, React.js & Node.js** apps with **REST APIs**, plus **Firebase, Supabase & MySQL** when the product needs them.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 LLM Systems & RAG
-Agentic workflows with **LangGraph**, retrieval over **Qdrant**, and answers grounded in real documents (OCR → embeddings → reasoning).
+### 🤖 AI Builder
+Turns AI into working products: document understanding, smart dashboards and multilingual interfaces, built on solid ML fundamentals.
 
 </td>
 </tr>
@@ -112,8 +112,8 @@ Takes ideas from a blank repo to a live, judged product inside a hackathon windo
 </td>
 <td valign="top">
 
-### 🧩 Full-Stack Ownership
-**Next.js / React** front-ends, **Node / FastAPI** back-ends, **Firebase & Supabase** data, shipped on **Vercel**, end to end.
+### 🚢 Ship & Deploy
+Versioned with **Git & GitHub**, containerised with **Docker**, and deployed on **Vercel & Netlify**, end to end.
 
 </td>
 </tr>
@@ -121,13 +121,13 @@ Takes ideas from a blank repo to a live, judged product inside a hackathon windo
 <td valign="top">
 
 ### 📊 ML Foundations
-Regression to CNNs, NLP pipelines (**TF-IDF, Word2Vec, NLTK**), and **TensorFlow.js** computer vision running in the browser.
+Supervised & unsupervised learning, regression to **ANN / CNN**, KNN, Naive Bayes, PCA, and NLP pipelines (**TF-IDF, Word2Vec, NLTK**).
 
 </td>
 <td valign="top">
 
 ### 🧮 CS Fundamentals
-DSA (**Top 30 / 1000+** on campus GFG), OOP, DBMS, Operating Systems, Computer Networks and system design basics.
+Object-Oriented Programming, Database Management Systems, Operating Systems and Computer Networks.
 
 </td>
 </tr>
@@ -140,27 +140,22 @@ DSA (**Top 30 / 1000+** on campus GFG), OOP, DBMS, Operating Systems, Computer N
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js&theme=dark" alt="Languages"/>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,figma&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend & Data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase,supabase,mongodb,mysql&theme=dark" alt="Backend and data"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark" alt="Backend and data"/>
 
-**ML & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,docker,aws,vercel,netlify,git,github&theme=dark" alt="ML and cloud"/>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode&theme=dark" alt="Tools"/>
 
-**AI & Agent Stack**<br/>
-<img src="https://img.shields.io/badge/OpenAI-0B0F19?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Gemini-0B0F19?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
-<img src="https://img.shields.io/badge/LangGraph-0B0F19?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/LiveKit-0B0F19?style=for-the-badge&logoColor=white" alt="LiveKit"/>
-<img src="https://img.shields.io/badge/Twilio-0B0F19?style=for-the-badge&logo=twilio&logoColor=F22F46" alt="Twilio"/>
-<img src="https://img.shields.io/badge/Sarvam_AI-0B0F19?style=for-the-badge" alt="Sarvam AI"/>
-<img src="https://img.shields.io/badge/Vapi-0B0F19?style=for-the-badge" alt="Vapi"/>
-<img src="https://img.shields.io/badge/Qdrant-0B0F19?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant"/>
-<img src="https://img.shields.io/badge/Lyzr-0B0F19?style=for-the-badge" alt="Lyzr"/>
+**ML / DL**<br/>
+<img src="https://img.shields.io/badge/Supervised_%26_Unsupervised-0B0F19?style=for-the-badge" alt="Supervised and unsupervised learning"/>
+<img src="https://img.shields.io/badge/ANN_%C2%B7_CNN-0B0F19?style=for-the-badge" alt="ANN and CNN"/>
+<img src="https://img.shields.io/badge/KNN_%C2%B7_Naive_Bayes_%C2%B7_K--Means_%C2%B7_PCA-0B0F19?style=for-the-badge" alt="Classical ML"/>
+<img src="https://img.shields.io/badge/NLP-TF--IDF_%C2%B7_Word2Vec_%C2%B7_NLTK-8B5CF6?style=for-the-badge" alt="NLP"/>
 
 </div>
 
