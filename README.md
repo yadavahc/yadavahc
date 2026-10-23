@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v5.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v6.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -61,12 +61,11 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="100%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
-<td width="50%" align="center"><img src="./assets/photos/ai-agent-builders-certificate.jpg" width="100%" alt="India's First AI Agent Builders Award 2026 certificate"/><br/><sub><b>🏆 Certificate of Recognition</b> · AI House × Ojone</sub></td>
+<td colspan="2" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="80%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
-<td align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
+<td width="50%" align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
+<td width="50%" align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Collecting the DevKreeda 2026 2nd prize on stage"/><br/><sub><b>🥈 DevKreeda 2026</b> · Anokha · 2nd Prize</sub></td>
