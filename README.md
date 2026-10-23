@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v9.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, AI Agent Builders Award 2026, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place, IoT Hackathon autonomous AI campus monitoring system"/>
+  <img src="./assets/hall-of-fame-v10.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, AI Agent Builders Award 2026, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -74,11 +74,7 @@
 <tr>
 <td align="center"><img src="./assets/photos/google-top-prompt-creator.jpg" width="100%" alt="Google Top Prompt Creator certificate"/><br/><sub><b>✨ Google · Top Prompt Creator</b> · Pitch Night Edition</sub></td>
 <td align="center"><img src="./assets/photos/csi-web-dev-3rd.jpg" width="100%" alt="CSI Web Development Event 3rd place certificate"/><br/><sub><b>🥉 CSI Web Development</b> · 3rd Place · Nov 2024</sub></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="./assets/photos/iot-campus-monitor.jpg" width="80%" alt="Team demoing the autonomous AI campus monitoring system at an IoT hackathon"/><br/><sub><b>📡 IoT Hackathon</b> · Autonomous AI campus monitoring · camera, motion &amp; temperature sensors</sub></td>
-</tr>
-</table>
+</tr></table>
 
 </details>
 
