@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v6.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v7.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, YC Fall 2026 × Moss Hackathon 3rd prize, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -62,6 +62,9 @@
 <table>
 <tr>
 <td colspan="2" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="80%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="./assets/photos/yc-moss-hackathon.jpg" width="80%" alt="Presenting at the YC Fall 2026 × Moss Hackathon"/><br/><sub><b>🥉 YC Fall 2026 × Moss Hackathon</b> · 3rd Prize among 300+ participants</sub></td>
 </tr>
 <tr>
 <td width="50%" align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
