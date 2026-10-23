@@ -34,7 +34,7 @@
 | | Competition | Result |
 |:-:|:--|:--|
 | 🥇 | **India's First AI Agent Builders Award 2026** | **Winner** · Most Impactful Use Case (with *Arya*) |
-| ✨ | **Google Gemini** | **Top Prompt Creator** |
+| ✨ | **Google Gemini** · Student Ambassador Program | **Top Prompt Creator** · Pitch Night Edition |
 | 🥈 | **OxyHack 2026** | **2nd place** among 500+ participants (with *WattWatch*) |
 | 🥈 | **DevKreeda 2026** · Anokha | **2nd place** |
 | 🥈 | **InnovateX Ideathon 2024** · BMS College of Engineering | **2nd place** |
@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v2.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, build mode, AI Agent Builders Award 2026 certificate, prize ceremony"/>
+  <img src="./assets/hall-of-fame-v3.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -61,12 +61,23 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
-<td width="50%" align="center"><img src="./assets/photos/ai-agent-builders-certificate.jpg" width="100%" alt="India's First AI Agent Builders Award 2026 certificate"/><br/><sub><b>🏆 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
+<td width="50%" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="100%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
+<td width="50%" align="center"><img src="./assets/photos/ai-agent-builders-certificate.jpg" width="100%" alt="India's First AI Agent Builders Award 2026 certificate"/><br/><sub><b>🏆 Certificate of Recognition</b> · AI House × Ojone</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./assets/photos/build-mode.jpg" width="100%" alt="Brainstorming during a hackathon"/><br/><sub><b>⚡ Build mode</b> · ideas flying mid-hackathon</sub></td>
-<td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Receiving an award on stage"/><br/><sub><b>🎤 On stage</b> · prize ceremony</sub></td>
+<td align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
+<td align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/photos/oxyhack-trophy.jpg" width="62%" alt="Holding the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🏅 2nd Prize Winner</b> · OxyHack 2026</sub></td>
+<td align="center"><img src="./assets/photos/team-selfie.jpg" width="100%" alt="Team selfie during the hackathon"/><br/><br/><img src="./assets/photos/build-mode.jpg" width="100%" alt="Brainstorming during a hackathon"/><br/><sub><b>⚡ Build mode</b> · heads down, ideas up</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/photos/google-top-prompt-creator.jpg" width="100%" alt="Google Top Prompt Creator certificate"/><br/><sub><b>✨ Google · Top Prompt Creator</b> · Pitch Night Edition</sub></td>
+<td align="center"><img src="./assets/photos/csi-web-dev-3rd.jpg" width="100%" alt="CSI Web Development Event 3rd place certificate"/><br/><sub><b>🥉 CSI Web Development</b> · 3rd Place · Nov 2024</sub></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="./assets/photos/award-ceremony.jpg" width="70%" alt="Receiving an award on stage"/><br/><sub><b>🎤 On stage</b> · prize ceremony</sub></td>
 </tr>
 </table>
 
