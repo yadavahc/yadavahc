@@ -41,7 +41,7 @@
 | 🥉 | **YC Fall 2026 × Moss Hackathon** | **3rd place** among 300+ participants |
 | 🥉 | **CSI Web Hackathon** | **3rd place** |
 | 🎯 | **HackBLR 2026** · National Level | **Finalist** (with *Legal Saathi*) |
-| 🎯 | **Cypher Quest 2026** · DSATM | **Finalist** |
+| 🎯 | **Cypher Quest 2026** · DSATM | **Finalist** · Top 8 |
 | 🎯 | **Hackzion** · AMC | **Finalist** |
 | 🧩 | **GeeksforGeeks** · TOCE chapter | **Top 30** of 1000+ coders · 100+ DSA problems solved |
 
@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v3.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v4.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -70,14 +70,15 @@
 </tr>
 <tr>
 <td align="center"><img src="./assets/photos/oxyhack-trophy.jpg" width="62%" alt="Holding the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🏅 2nd Prize Winner</b> · OxyHack 2026</sub></td>
-<td align="center"><img src="./assets/photos/team-selfie.jpg" width="100%" alt="Team selfie during the hackathon"/><br/><br/><img src="./assets/photos/build-mode.jpg" width="100%" alt="Brainstorming during a hackathon"/><br/><sub><b>⚡ Build mode</b> · heads down, ideas up</sub></td>
+<td align="center"><img src="./assets/photos/team-selfie.jpg" width="100%" alt="Team selfie during the hackathon"/><br/><sub><b>⚡ Build mode</b> · heads down, ideas up</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Collecting the DevKreeda 2026 2nd prize on stage"/><br/><sub><b>🥈 DevKreeda 2026</b> · Anokha · 2nd Prize</sub></td>
+<td align="center"><img src="./assets/photos/build-mode.jpg" width="100%" alt="At the Cypher Quest 2026 hackathon finals"/><br/><sub><b>🎯 Cypher Quest 2026</b> · DSATM · Finalist, Top 8</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/photos/google-top-prompt-creator.jpg" width="100%" alt="Google Top Prompt Creator certificate"/><br/><sub><b>✨ Google · Top Prompt Creator</b> · Pitch Night Edition</sub></td>
 <td align="center"><img src="./assets/photos/csi-web-dev-3rd.jpg" width="100%" alt="CSI Web Development Event 3rd place certificate"/><br/><sub><b>🥉 CSI Web Development</b> · 3rd Place · Nov 2024</sub></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="./assets/photos/award-ceremony.jpg" width="70%" alt="Receiving an award on stage"/><br/><sub><b>🎤 On stage</b> · prize ceremony</sub></td>
 </tr>
 </table>
 
