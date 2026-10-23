@@ -19,7 +19,7 @@
       </rect>
       <text x="455" y="100" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#A78BFA">06</text>
       <text x="455" y="140" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#F1F5F9">Podium Finishes</text>
-      <text x="455" y="168" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#94A3B8">2nd ×4 · 3rd ×2</text>
+      <text x="455" y="168" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#94A3B8">1st · 2nd ×3 · 3rd ×2</text>
     </g>
 <g class="tile" style="animation-delay:0.55s">
       <rect x="610" y="20" width="270" height="180" rx="18" fill="#0C0F24" stroke="#22D3EE" stroke-opacity="0.35"/>

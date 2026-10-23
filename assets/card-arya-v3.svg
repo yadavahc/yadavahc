@@ -17,8 +17,8 @@
     <rect width="1000" height="290" fill="url(#bg)"/>
     <circle class="pulse" cx="900" cy="140" r="140" fill="url(#glow)"/>
     <rect class="shine" x="0" y="0" width="240" height="3" fill="url(#shine)"/>
-    <rect x="40" y="32" width="662" height="28" rx="14" fill="#FBBF24" fill-opacity="0.12" stroke="#FBBF24" stroke-opacity="0.6"/>
-    <text x="371" y="51" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" fill="#FBBF24">2ND PLACE · MOST IMPACTFUL USE CASE · INDIA'S FIRST AI AGENT BUILDERS AWARD 2026</text>
+    <rect x="40" y="32" width="638" height="28" rx="14" fill="#FBBF24" fill-opacity="0.12" stroke="#FBBF24" stroke-opacity="0.6"/>
+    <text x="359" y="51" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" fill="#FBBF24">WINNER · INDIA'S FIRST AI AGENT BUILDERS AWARD 2026 · MOST IMPACTFUL USE CASE</text>
     <text x="40" y="118" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" fill="#F8FAFC">Arya</text>
     <text x="40" y="152" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#A78BFA">Multilingual voice AI clinical companion</text>
     <text x="40" y="186" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#94A3B8">Patients phone in and Arya answers in their language, with their medical history in</text>
