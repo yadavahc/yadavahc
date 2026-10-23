@@ -23,32 +23,6 @@
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 
-## 🏆 Trophy Cabinet
-
-<div align="center">
-  <img src="./assets/scoreboard-v4.svg" width="100%" alt="Achievement scoreboard"/>
-</div>
-
-<div align="center">
-
-| | Competition | Result |
-|:-:|:--|:--|
-| 🥇 | **India's First AI Agent Builders Award 2026** | **Winner** · Most Impactful Use Case (with *Arya*) |
-| ✨ | **Google Gemini** · Student Ambassador Program | **Top Prompt Creator** · Pitch Night Edition |
-| 🥈 | **OxyHack 2026** | **2nd place** among 500+ participants (with *WattWatch*) |
-| 🥈 | **DevKreeda 2026** · Anokha | **2nd place** |
-| 🥈 | **InnovateX Ideathon 2024** · BMS College of Engineering | **2nd place** |
-| 🥉 | **YC Moss Hackathon** | **3rd prize** |
-| 🥉 | **CSI Web Hackathon** | **3rd place** |
-| 🎯 | **HackBLR 2026** · National Level | **Finalist** (with *Legal Saathi*) |
-| 🎯 | **Cypher Quest 2026** · DSATM | **Finalist** · Top 8 |
-| 🎯 | **Hackzion** · AMC | **Finalist** |
-| 🧩 | **GeeksforGeeks** · TOCE Campus | **Top 30** in GFG TOCE Campus · **200+** DSA problems solved |
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 ## 📸 Hall of Fame
 
 <div align="center">
@@ -80,6 +54,32 @@
 </tr></table>
 
 </details>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🏆 Trophy Cabinet
+
+<div align="center">
+  <img src="./assets/scoreboard-v4.svg" width="100%" alt="Achievement scoreboard"/>
+</div>
+
+<div align="center">
+
+| | Competition | Result |
+|:-:|:--|:--|
+| 🥇 | **India's First AI Agent Builders Award 2026** | **Winner** · Most Impactful Use Case (with *Arya*) |
+| ✨ | **Google Gemini** · Student Ambassador Program | **Top Prompt Creator** · Pitch Night Edition |
+| 🥈 | **OxyHack 2026** | **2nd place** among 500+ participants (with *WattWatch*) |
+| 🥈 | **DevKreeda 2026** · Anokha | **2nd place** |
+| 🥈 | **InnovateX Ideathon 2024** · BMS College of Engineering | **2nd place** |
+| 🥉 | **YC Moss Hackathon** | **3rd prize** |
+| 🥉 | **CSI Web Hackathon** | **3rd place** |
+| 🎯 | **HackBLR 2026** · National Level | **Finalist** (with *Legal Saathi*) |
+| 🎯 | **Cypher Quest 2026** · DSATM | **Finalist** · Top 8 |
+| 🎯 | **Hackzion** · AMC | **Finalist** |
+| 🧩 | **GeeksforGeeks** · TOCE Campus | **Top 30** in GFG TOCE Campus · **200+** DSA problems solved |
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
