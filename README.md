@@ -26,14 +26,14 @@
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="./assets/scoreboard.svg" width="100%" alt="Achievement scoreboard"/>
+  <img src="./assets/scoreboard-v2.svg" width="100%" alt="Achievement scoreboard"/>
 </div>
 
 <div align="center">
 
 | | Competition | Result |
 |:-:|:--|:--|
-| 🥇 | **India's First AI Agent Builders Award 2026** | **Winner** · Most Impactful Use Case (with *Arya*) |
+| 🏆 | **India's First AI Agent Builders Award 2026** | **2nd place** · Most Impactful Use Case (with *Arya*) |
 | ✨ | **Google Gemini** | **Top Prompt Creator** |
 | 🥈 | **OxyHack 2026** | **2nd place** among 500+ participants (with *WattWatch*) |
 | 🥈 | **DevKreeda 2026** · Anokha | **2nd place** |
@@ -49,10 +49,35 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
+## 📸 Hall of Fame
+
+<div align="center">
+  <img src="./assets/hall-of-fame.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, build mode, AI Agent Builders Award 2026 certificate, prize ceremony"/>
+</div>
+
+<details>
+<summary><b>🖼️ Open the full photo wall</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
+<td width="50%" align="center"><img src="./assets/photos/ai-agent-builders-certificate.jpg" width="100%" alt="India's First AI Agent Builders Award 2026 certificate"/><br/><sub><b>🏆 AI Agent Builders Award 2026</b> · 2nd Place, Most Impactful Use Case</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/photos/build-mode.jpg" width="100%" alt="Brainstorming during a hackathon"/><br/><sub><b>⚡ Build mode</b> · ideas flying mid-hackathon</sub></td>
+<td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Receiving an award on stage"/><br/><sub><b>🎤 On stage</b> · prize ceremony</sub></td>
+</tr>
+</table>
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 ## 🚀 Flagship Builds
 
 <p align="center">
-  <a href="https://github.com/yadavahc/Arya-Multilingual-Voice-AI-Healthcare-Assistant"><img src="./assets/card-arya.svg" width="100%" alt="Arya: multilingual voice AI clinical companion"/></a>
+  <a href="https://github.com/yadavahc/Arya-Multilingual-Voice-AI-Healthcare-Assistant"><img src="./assets/card-arya-v2.svg" width="100%" alt="Arya: multilingual voice AI clinical companion"/></a>
   <br/>
   <a href="https://github.com/yadavahc/Arya-Multilingual-Voice-AI-Healthcare-Assistant"><img src="https://img.shields.io/badge/Source_Code-A78BFA?style=flat-square&logo=github&logoColor=white" alt="Arya source"/></a>
 </p>
