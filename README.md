@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v4.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v5.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -67,10 +67,6 @@
 <tr>
 <td align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
 <td align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="./assets/photos/oxyhack-trophy.jpg" width="62%" alt="Holding the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🏅 2nd Prize Winner</b> · OxyHack 2026</sub></td>
-<td align="center"><img src="./assets/photos/team-selfie.jpg" width="100%" alt="Team selfie during the hackathon"/><br/><sub><b>⚡ Build mode</b> · heads down, ideas up</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Collecting the DevKreeda 2026 2nd prize on stage"/><br/><sub><b>🥈 DevKreeda 2026</b> · Anokha · 2nd Prize</sub></td>
