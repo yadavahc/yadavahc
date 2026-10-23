@@ -3,10 +3,10 @@
 <div align="center">
 
 <a href="https://portfolio-yadava-hc.vercel.app">
-  <img src="./assets/hero-v3.svg" width="100%" alt="Yadava HC: Full Stack Developer, AI Builder, 3× Hackathon Winner"/>
+  <img src="./assets/hero-v4.svg" width="100%" alt="Yadava HC: Full Stack Developer, AI Builder, 3× Hackathon Winner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+3%C3%97+Hackathon+Winner;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;6+podiums+%E2%80%A2+3+national+finals;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+3%C3%97+Hackathon+Winner;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;3%C3%97+Hackathon+Winner+%E2%80%A2+10%C3%97+Hackathon+Finalist;200%2B+DSA+solved+%E2%80%A2+Top+30+GFG+TOCE+Campus;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="./assets/scoreboard-v3.svg" width="100%" alt="Achievement scoreboard"/>
+  <img src="./assets/scoreboard-v4.svg" width="100%" alt="Achievement scoreboard"/>
 </div>
 
 <div align="center">
@@ -38,12 +38,12 @@
 | 🥈 | **OxyHack 2026** | **2nd place** among 500+ participants (with *WattWatch*) |
 | 🥈 | **DevKreeda 2026** · Anokha | **2nd place** |
 | 🥈 | **InnovateX Ideathon 2024** · BMS College of Engineering | **2nd place** |
-| 🥉 | **YC Fall 2026 × Moss Hackathon** | **3rd place** among 300+ participants |
+| 🥉 | **YC Moss Hackathon** | **3rd prize** |
 | 🥉 | **CSI Web Hackathon** | **3rd place** |
 | 🎯 | **HackBLR 2026** · National Level | **Finalist** (with *Legal Saathi*) |
 | 🎯 | **Cypher Quest 2026** · DSATM | **Finalist** · Top 8 |
 | 🎯 | **Hackzion** · AMC | **Finalist** |
-| 🧩 | **GeeksforGeeks** · TOCE chapter | **Top 30** of 1000+ coders · 100+ DSA problems solved |
+| 🧩 | **GeeksforGeeks** · TOCE Campus | **Top 30** in GFG TOCE Campus · **200+** DSA problems solved |
 
 </div>
 
@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v10.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, AI Agent Builders Award 2026, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v11.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, AI Agent Builders Award 2026, YC Moss Hackathon 3rd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -66,6 +66,9 @@
 </tr>
 <tr>
 <td colspan="2" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="80%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="./assets/photos/yc-moss-3rd-prize.jpg" width="80%" alt="YC Moss Hackathon 3rd prize certificate"/><br/><sub><b>🥉 YC Moss Hackathon</b> · 3rd Prize</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Collecting the DevKreeda 2026 2nd prize on stage"/><br/><sub><b>🥈 DevKreeda 2026</b> · Anokha · 2nd Prize</sub></td>
@@ -125,7 +128,7 @@ Turns AI into working products: document understanding, smart dashboards and mul
 <td valign="top">
 
 ### ⏱️ Zero-to-Demo Speed
-Takes ideas from a blank repo to a live, judged product inside a hackathon window. That's how **6 podiums and 3 national finals** happened.
+Takes ideas from a blank repo to a live, judged product inside a hackathon window. That's how I became a **3× hackathon winner and 10× hackathon finalist**.
 
 </td>
 <td valign="top">
