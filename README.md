@@ -52,7 +52,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v7.svg" width="100%" alt="Animated highlights: AI Agent Builders Award 2026, YC Fall 2026 × Moss Hackathon 3rd prize, OxyHack 2026 2nd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v9.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, AI Agent Builders Award 2026, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place, IoT Hackathon autonomous AI campus monitoring system"/>
 </div>
 
 <details>
@@ -61,14 +61,11 @@
 
 <table>
 <tr>
-<td colspan="2" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="80%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="./assets/photos/yc-moss-hackathon.jpg" width="80%" alt="Presenting at the YC Fall 2026 × Moss Hackathon"/><br/><sub><b>🥉 YC Fall 2026 × Moss Hackathon</b> · 3rd Prize among 300+ participants</sub></td>
-</tr>
-<tr>
 <td width="50%" align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
 <td width="50%" align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="80%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Collecting the DevKreeda 2026 2nd prize on stage"/><br/><sub><b>🥈 DevKreeda 2026</b> · Anokha · 2nd Prize</sub></td>
@@ -77,6 +74,9 @@
 <tr>
 <td align="center"><img src="./assets/photos/google-top-prompt-creator.jpg" width="100%" alt="Google Top Prompt Creator certificate"/><br/><sub><b>✨ Google · Top Prompt Creator</b> · Pitch Night Edition</sub></td>
 <td align="center"><img src="./assets/photos/csi-web-dev-3rd.jpg" width="100%" alt="CSI Web Development Event 3rd place certificate"/><br/><sub><b>🥉 CSI Web Development</b> · 3rd Place · Nov 2024</sub></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="./assets/photos/iot-campus-monitor.jpg" width="80%" alt="Team demoing the autonomous AI campus monitoring system at an IoT hackathon"/><br/><sub><b>📡 IoT Hackathon</b> · Autonomous AI campus monitoring · camera, motion &amp; temperature sensors</sub></td>
 </tr>
 </table>
 
