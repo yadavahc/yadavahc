@@ -26,7 +26,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v12.svg" width="100%" alt="Animated highlights: upGrad × Hacktoberfest National Level Hackathon 1st place, OxyHack 2026 2nd prize, AI Agent Builders Award 2026, YC Moss Hackathon 3rd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v13.svg" width="100%" alt="Animated highlights: upGrad × Hacktoberfest National Level Hackathon 1st place, OxyHack 2026 2nd prize, AI Agent Builders Award 2026, YC Moss Hackathon 3rd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -35,8 +35,8 @@
 
 <table>
 <tr>
-<td width="71%" align="center"><img src="./assets/photos/upgrad-hacktoberfest-1st-place-stage.jpg" width="100%" alt="Team Tony Stark on stage with the 1st prize cheque at the upGrad × Hacktoberfest National Level Hackathon"/><br/><sub><b>🥇 upGrad × Hacktoberfest National Level Hackathon</b> · 1st Place · Team Tony Stark</sub></td>
-<td width="29%" align="center"><img src="./assets/photos/upgrad-hacktoberfest-1st-prize-cheque.jpg" width="100%" alt="With the Hack Day 1st prize cheque at upGrad School of Technology"/><br/><sub><b>🏆 Hack Day</b> · 1st Prize</sub></td>
+<td width="50%" align="center"><img src="./assets/photos/upgrad-hacktoberfest-1st-place-onstage.jpg" width="100%" alt="Team Tony Stark on stage with the 1st prize cheque at the upGrad × Hacktoberfest National Level Hackathon"/><br/><sub><b>🥇 upGrad × Hacktoberfest National Hackathon</b> · 1st Place</sub></td>
+<td width="50%" align="center"><img src="./assets/photos/upgrad-hacktoberfest-1st-prize-solo.jpg" width="100%" alt="Holding the Hack Day 1st prize cheque at upGrad School of Technology"/><br/><sub><b>🏆 Team Tony Stark</b> · Hack Day 1st Prize</sub></td>
 </tr>
 <tr>
 <td width="50%" align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
