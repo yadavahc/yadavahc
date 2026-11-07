@@ -26,7 +26,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v13.svg" width="100%" alt="Animated highlights: upGrad × Hacktoberfest National Level Hackathon 1st place, OxyHack 2026 2nd prize, AI Agent Builders Award 2026, YC Moss Hackathon 3rd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v14.svg" width="100%" alt="Animated highlights: upGrad × Hacktoberfest National Level Hackathon 1st place, OxyHack 2026 2nd prize, AI Agent Builders Award 2026, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -44,9 +44,6 @@
 </tr>
 <tr>
 <td colspan="2" align="center"><img src="./assets/photos/ai-agent-awards-trophies.jpg" width="80%" alt="AI Agent Builders Award 2026 trophies"/><br/><sub><b>🥇 AI Agent Builders Award 2026</b> · Winner, Most Impactful Use Case</sub></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="./assets/photos/yc-moss-3rd-prize.jpg" width="80%" alt="YC Moss Hackathon 3rd prize certificate"/><br/><sub><b>🥉 YC Moss Hackathon</b> · 3rd Prize</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/photos/award-ceremony.jpg" width="100%" alt="Collecting the DevKreeda 2026 2nd prize on stage"/><br/><sub><b>🥈 DevKreeda 2026</b> · Anokha · 2nd Prize</sub></td>
