@@ -78,7 +78,6 @@
 | 🥉 | **CSI Web Hackathon** | **3rd place** |
 | 🎯 | **HackBLR 2026** · National Level | **Finalist** (with *Legal Saathi*) |
 | 🎯 | **Cypher Quest 2026** · DSATM | **Finalist** · Top 8 |
-| 🎯 | **Hackzion** · AMC | **Finalist** |
 | 🧩 | **GeeksforGeeks** · TOCE Campus | **Top 30** in GFG TOCE Campus · **200+** DSA problems solved |
 
 </div>
