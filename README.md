@@ -3,10 +3,10 @@
 <div align="center">
 
 <a href="https://portfolio-yadava-hc.vercel.app">
-  <img src="./assets/hero-v4.svg" width="100%" alt="Yadava HC: Full Stack Developer, AI Builder, 3× Hackathon Winner"/>
+  <img src="./assets/hero-v5.svg" width="100%" alt="Yadava HC: Full Stack Developer, AI Builder, 4× Hackathon Winner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+3%C3%97+Hackathon+Winner;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;3%C3%97+Hackathon+Winner+%E2%80%A2+10%C3%97+Hackathon+Finalist;200%2B+DSA+solved+%E2%80%A2+Top+30+GFG+TOCE+Campus;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+AI+Builder+%E2%80%A2+4%C3%97+Hackathon+Winner;1st+Place+%E2%80%A2+upGrad+%C3%97+Hacktoberfest+National+Hackathon;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node+%2B+AI;4%C3%97+Hackathon+Winner+%E2%80%A2+10%C3%97+Hackathon+Finalist;200%2B+DSA+solved+%E2%80%A2+Top+30+GFG+TOCE+Campus;From+blank+repo+to+live+demo%2C+under+pressure" alt="Typing intro"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 ## 📸 Hall of Fame
 
 <div align="center">
-  <img src="./assets/hall-of-fame-v11.svg" width="100%" alt="Animated highlights: OxyHack 2026 2nd prize, AI Agent Builders Award 2026, YC Moss Hackathon 3rd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
+  <img src="./assets/hall-of-fame-v12.svg" width="100%" alt="Animated highlights: upGrad × Hacktoberfest National Level Hackathon 1st place, OxyHack 2026 2nd prize, AI Agent Builders Award 2026, YC Moss Hackathon 3rd prize, DevKreeda 2026 2nd prize, Cypher Quest 2026 finalist, Google Top Prompt Creator, CSI Web Development 3rd place"/>
 </div>
 
 <details>
@@ -34,6 +34,10 @@
 <br/>
 
 <table>
+<tr>
+<td width="71%" align="center"><img src="./assets/photos/upgrad-hacktoberfest-1st-place-stage.jpg" width="100%" alt="Team Tony Stark on stage with the 1st prize cheque at the upGrad × Hacktoberfest National Level Hackathon"/><br/><sub><b>🥇 upGrad × Hacktoberfest National Level Hackathon</b> · 1st Place · Team Tony Stark</sub></td>
+<td width="29%" align="center"><img src="./assets/photos/upgrad-hacktoberfest-1st-prize-cheque.jpg" width="100%" alt="With the Hack Day 1st prize cheque at upGrad School of Technology"/><br/><sub><b>🏆 Hack Day</b> · 1st Prize</sub></td>
+</tr>
 <tr>
 <td width="50%" align="center"><img src="./assets/photos/oxyhack-ceremony.jpg" width="100%" alt="OxyHack 2026 prize ceremony on stage"/><br/><sub><b>🎤 OxyHack 2026</b> · prize ceremony</sub></td>
 <td width="50%" align="center"><img src="./assets/photos/oxyhack-2nd-prize.jpg" width="100%" alt="Team Spy with the OxyHack 2026 2nd prize trophy and cheque"/><br/><sub><b>🥈 OxyHack 2026</b> · 2nd Prize · Team Spy</sub></td>
@@ -60,13 +64,14 @@
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="./assets/scoreboard-v4.svg" width="100%" alt="Achievement scoreboard"/>
+  <img src="./assets/scoreboard-v5.svg" width="100%" alt="Achievement scoreboard"/>
 </div>
 
 <div align="center">
 
 | | Competition | Result |
 |:-:|:--|:--|
+| 🥇 | **upGrad × Hacktoberfest National Level Hackathon** · Hack Day 2026 | **1st place** among 350+ participants (Team *Tony Stark*) |
 | 🥇 | **India's First AI Agent Builders Award 2026** | **Winner** · Most Impactful Use Case (with *Arya*) |
 | ✨ | **Google Gemini** · Student Ambassador Program | **Top Prompt Creator** · Pitch Night Edition |
 | 🥈 | **OxyHack 2026** | **2nd place** among 500+ participants (with *WattWatch*) |
@@ -128,7 +133,7 @@ Turns AI into working products: document understanding, smart dashboards and mul
 <td valign="top">
 
 ### ⏱️ Zero-to-Demo Speed
-Takes ideas from a blank repo to a live, judged product inside a hackathon window. That's how I became a **3× hackathon winner and 10× hackathon finalist**.
+Takes ideas from a blank repo to a live, judged product inside a hackathon window. That's how I became a **4× hackathon winner and 10× hackathon finalist**.
 
 </td>
 <td valign="top">
