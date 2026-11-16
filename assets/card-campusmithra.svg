@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-label="Campus Mithra: Multilingual voice AI campus guide">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090C18"/><stop offset="1" stop-color="#121332"/></linearGradient>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#34D399" stop-opacity="0"/><stop offset="0.5" stop-color="#34D399"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#34D399" stop-opacity="0.32"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect width="1000" height="290" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .shine{animation:sweep 5s ease-in-out infinite}
+    @keyframes sweep{from{transform:translateX(-260px)}to{transform:translateX(1060px)}}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3s ease-in-out infinite}
+    @keyframes pulse{0%,100%{transform:scale(.9);opacity:.55}50%{transform:scale(1.08);opacity:1}}
+    .pin{animation:bob 2.4s ease-in-out infinite}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    .ripple{transform-box:fill-box;transform-origin:center;animation:ripple 2.4s ease-out infinite}
+    @keyframes ripple{from{transform:scale(.3);opacity:.9}to{transform:scale(1.7);opacity:0}}
+    .walk{animation:walk 1.2s linear infinite}
+    @keyframes walk{to{stroke-dashoffset:-20}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="290" fill="url(#bg)"/>
+    <circle class="pulse" cx="900" cy="140" r="140" fill="url(#glow)"/>
+    <rect class="shine" x="0" y="0" width="240" height="3" fill="url(#shine)"/>
+    <rect x="40" y="32" width="620" height="28" rx="14" fill="#FBBF24" fill-opacity="0.12" stroke="#FBBF24" stroke-opacity="0.6"/>
+    <text x="350" y="51" text-anchor="middle" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1" fill="#FBBF24">1ST PLACE · UPGRAD × HACKTOBERFEST NATIONAL HACKATHON · 350+ PARTICIPANTS</text>
+    <text x="40" y="118" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" fill="#F8FAFC">Campus Mithra</text>
+    <text x="40" y="152" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#34D399">Your friend on campus, in your language</text>
+    <text x="40" y="186" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#94A3B8">An ESP32 voice kiosk answers campus questions in Kannada, Hindi or English, grounded</text>
+    <text x="40" y="210" font-family="'Segoe UI', 'Inter', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#94A3B8">in college records, and hands you a QR code for live walking directions on your phone.</text>
+    <rect x="40" y="236" width="62" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="71" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">ESP32</text>
+<rect x="111" y="236" width="77" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="149.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">FastAPI</text>
+<rect x="197" y="236" width="77" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="235.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Gemma 4</text>
+<rect x="283" y="236" width="92" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="329" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Sarvam AI</text>
+<rect x="384" y="236" width="77" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="422.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Next.js</text>
+<rect x="470" y="236" width="77" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="508.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Flutter</text>
+<rect x="556" y="236" width="85" height="28" rx="8" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <text x="598.5" y="255" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#CBD5E1">Firebase</text>
+    <path class="walk" d="M790 262 C 820 250, 812 228, 846 222 S 884 214, 900 206" fill="none" stroke="#34D399" stroke-opacity="0.7" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 6"/>
+    <ellipse class="ripple" cx="900" cy="204" rx="40" ry="10" fill="none" stroke="#34D399" stroke-width="2"/>
+    <ellipse class="ripple" style="animation-delay:1.2s" cx="900" cy="204" rx="40" ry="10" fill="none" stroke="#34D399" stroke-width="2"/>
+    <g class="pin">
+      <path d="M900 200 C 880 170, 864 146, 864 110 A 36 36 0 1 1 936 110 C 936 146, 920 170, 900 200 Z" fill="#34D399" stroke="#A7F3D0" stroke-width="2" stroke-linejoin="round"/>
+      <circle cx="900" cy="110" r="13" fill="#0F1128"/>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="288.5" rx="19.5" fill="none" stroke="#34D399" stroke-opacity="0.3" stroke-width="1.5"/>
+</svg>

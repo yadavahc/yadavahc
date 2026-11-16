@@ -87,9 +87,10 @@
 ## 🚀 Flagship Builds
 
 <p align="center">
-  <a href="https://github.com/yadavahc/Arya-Multilingual-Voice-AI-Healthcare-Assistant"><img src="./assets/card-arya-v3.svg" width="100%" alt="Arya: multilingual voice AI clinical companion"/></a>
+  <a href="https://github.com/yadavahc/Campus-Mithra"><img src="./assets/card-campusmithra.svg" width="100%" alt="Campus Mithra: multilingual voice AI campus guide, 1st place at the upGrad × Hacktoberfest National Hackathon"/></a>
   <br/>
-  <a href="https://github.com/yadavahc/Arya-Multilingual-Voice-AI-Healthcare-Assistant"><img src="https://img.shields.io/badge/Source_Code-A78BFA?style=flat-square&logo=github&logoColor=white" alt="Arya source"/></a>
+  <a href="https://first-hack-team-spy-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-34D399?style=flat-square&logo=vercel&logoColor=black" alt="Campus Mithra live demo"/></a>
+  <a href="https://github.com/yadavahc/Campus-Mithra"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=flat-square&logo=github&logoColor=white" alt="Campus Mithra source"/></a>
 </p>
 
 <p align="center">
@@ -215,15 +216,7 @@ Object-Oriented Programming, Database Management Systems, Operating Systems and 
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <div align="center">
-
-**Beyond code** · School President (MMVS) · E-Cell TOCE · Youth for Seva volunteer
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Got+a+hard+problem%3F+Let's+build+the+demo.;Open+to+collaborations+%26+hackathon+teams." alt="Let's build"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:8B5CF6,100:F472B6" width="100%" alt=""/>
 
